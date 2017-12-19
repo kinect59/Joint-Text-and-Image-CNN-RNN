@@ -113,6 +113,7 @@ if __name__ == '__main__':
     generate_caption('2.png')
 
     # search the image corresponding to this caption
+
     print(' ')
     print('2: search the image corresponding to this caption')
     search_image('a man in the snow on some skis')
